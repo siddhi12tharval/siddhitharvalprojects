@@ -6,8 +6,11 @@ REQUIREMENT
 A few of these projects use browser automation, but most do not. For this, I use BeautifulSoup to automate the browser. Libraries that are used include:
 
 Requests
+
 BeautifulSoup
+
 lxml
+
 
 EXPECTATIONS
 
